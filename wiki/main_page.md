@@ -3,7 +3,7 @@ redirect_from: /
 published: true
 ---
 
-# Welcome to git-wiki demo!
+# Креативное программирование на Python в Processing
 
 This is both documentation and [demo](Demo.md) of [git-wiki theme](https://github.com/Drassil/git-wiki-theme) project.
 
